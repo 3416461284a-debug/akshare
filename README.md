@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 中国行业与财经数据采集｜AKShare
+
+> **一句话看懂：查中国行业、公司和经济数据。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 查中国行业、公司和经济数据。 |
+| 怎么使用 | 通过Python代码获取数据；主要面向中国市场。 |
+| 适合谁 | 需要做行业研究、公司分析和经济数据整理的人。 |
+| 主要限制 | 数据接口可能变化，要检查更新日期和缺失值。 |
+| 后续可以怎么改 | 增加缓存、失败提示和统一单位。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 **资源分享**：对于想了解更多财经数据与量化投研的小伙伴，推荐一个专注于财经数据和量化研究的知识社区。
 该社区提供相关文档和视频学习资源，汇集了各类财经数据源和量化投研工具的使用经验。
 有兴趣深入学习的朋友可点此[了解更多](https://t.zsxq.com/ZCxUG)，也推荐大家关注微信公众号【数据科学实战】。
@@ -294,3 +319,6 @@ Thanks for the data provided by [思知网站](https://www.ownthink.com/);
 Thanks for the data provided by [Currencyscoop 网站](https://currencyscoop.com/);
 
 Thanks for the data provided by [新加坡交易所网站](https://www.sgx.com/zh-hans/research-education/derivatives);
+
+
+</details>
